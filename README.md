@@ -134,7 +134,7 @@ app/
 
 如有问题或建议，请通过以下方式联系我们：
 
-- 项目链接：<repository-url>
+- zhangjiarui310@163.com
 
 ---
 
